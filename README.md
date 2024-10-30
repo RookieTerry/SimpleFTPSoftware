@@ -10,7 +10,7 @@ A small file transmission tool based on C/S architecture, and it can send and re
 ### Server
 1. authentication and encryption of username and password
 2. show users' info and status
-3. show file transmission status
+3. show file transmission status by asterisk progress bar
 ## Usage
 1. start the FTP server on given IP and port
 2. FTP client connect to server
